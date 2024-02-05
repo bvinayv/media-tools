@@ -34,3 +34,7 @@ Added example hls stream is provided at the end of yaml file under `paths` in th
 ```
 ffmpeg -i "srt://127.0.0.1:8890?streamid=read:input_1" -c copy -f mpegts test.ts
 ```
+
+### Links:
+
+   - repository: [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
